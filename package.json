@@ -34,6 +34,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
     "panini": "^1.6.3",
+    "tar": ">=4.4.2",
     "uncss": "^0.16.2",
     "vinyl-named": "^1.1.0",
     "webpack": "^4.32.2",
